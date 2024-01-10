@@ -1,0 +1,8 @@
+Ayuda:
+
+
+Este Plugin se de desarrollo para SureCart y SureMember. 
+
+Muestra información del usuario actual, si está logueado,su membresia, su estado.
+
+El hook por defecto donde se muestra la informacion es 'generate_before_header', es un hook del theme GeneratePress.
